@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Back to Life (from \"Bumblebee\")",
+  "base_artist": "Hailee Steinfeld",
+  "createdAt": "2026-03-18T22:14:59.862927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back To Life (from \"Bumblebee\")",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/01_Back_To_Life_(from__Bumblebee_)_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Back to Life (From \"Bumblebee\")",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/02_Back_to_Life_(From__Bumblebee_)_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Back to Life (from \"Bumblebee\")",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/03_Back_to_Life_(from__Bumblebee_)_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Back to Life (from \"Bumblebee\")",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/04_Back_to_Life_(from__Bumblebee_)_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Back to Life - from “Bumblebee”",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/05_Back_to_Life_-_from_“Bumblebee”_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Back to Life - from “Bumblebee”",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/06_Back_to_Life_-_from_“Bumblebee”_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Back to Life (from \"Bumblebee\")",
+      "artist": "Hailee Steinfeld",
+      "has_synced": false,
+      "path": "select/pl_01_Back_to_Life_(from__Bumblebee_)_Hailee_Steinfeld.txt"
+    }
+  ]
+}
